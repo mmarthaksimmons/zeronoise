@@ -28,10 +28,10 @@
   }
   .nav-pills {
     margin: 0 1rem;
+    display: none
     .navigation-toggle {
       border-radius: 2rem;
       overflow: hidden;
-      display: none
     }
   }
   #create-topic {
