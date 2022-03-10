@@ -16,7 +16,7 @@
       "tertiary": "4f31cd", // Call to actions and links
       "quaternary": "ffffff", // You can see it in the top menu
       "header_background": "ffffff",
-      "header_primary": "ffffff", // It's the text and icons color in the header
+      "header_primary": "000000", // It's the text and icons color in the header
       "highlight": "8a51e7", // Applies to the title of the list of Time Periods in the "Top" tab of the main menu.
       "danger": "ed2f2f",
       "success": "14ba60",
