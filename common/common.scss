@@ -68,7 +68,6 @@ p {
   ol.category-breadcrumb {
     margin-bottom: 0;
     padding-left: 1rem;
-    display: none;
   }
   .select-kit {
     float: none;
@@ -117,7 +116,7 @@ p {
 
 ol.category-breadcrumb {
   float: none;
-  display: none;
+  display: flex;
 }
 
 // User Profile
